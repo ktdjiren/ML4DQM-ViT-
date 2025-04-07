@@ -59,7 +59,7 @@ scikit-learn>=0.24.0
 
 ### Installation
 ```bash
-git clone https://github.com/ktdjiren/ML4DQM.git
+git clone https://github.com/ktdjiren/ML4DQM-ViT-.git
 pip install -r requirements.txt
 ```
 
