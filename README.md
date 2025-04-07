@@ -29,6 +29,8 @@ The model has been evaluated using standard metrics:
 - **Accuracy**: Training and validation accuracy curves show rapid convergence to ~99% accuracy within the first few epochs.
 - **ROC Curve**: The model achieves an area under the curve (AUC) of 1.00, indicating perfect classification performance.
 - **Loss**: Both training and validation loss curves show quick decrease and stabilization at near-zero values.
+- ![ROC-AUC](https://github.com/ktdjiren/ML4DQM-ViT-/blob/main/images/MoE_ViT(1)/roc_curve_MoEViT.png)
+- ![Confussion Matrix](https://github.com/ktdjiren/ML4DQM-ViT-/blob/main/images/MoE_ViT(1)/confusion_matrix_MoEViT.png)
 
 ## Approaches
 
